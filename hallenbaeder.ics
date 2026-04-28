@@ -6,18 +6,10 @@ X-WR-CALDESC:Öffnungszeiten der Stuttgarter Hallenbäder
 NAME:Stuttgarter Hallenbäder
 X-WR-CALNAME:Stuttgarter Hallenbäder
 BEGIN:VEVENT
-SUMMARY:Hallenbad Sonnenberg
-DTSTART;TZID=Europe/Berlin:20260427T130000
-DTEND;TZID=Europe/Berlin:20260427T190000
-DTSTAMP:20260427T060657Z
-UID:10-2026-04-27@stuttgarterbaeder.de
-LOCATION:Kremmlerstraße 1\, 70597 Stuttgart
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sportbad NeckarPark
 DTSTART;TZID=Europe/Berlin:20260501T060000
 DTEND;TZID=Europe/Berlin:20260501T092000
-DTSTAMP:20260427T060657Z
+DTSTAMP:20260428T061059Z
 UID:18-2026-05-01@stuttgarterbaeder.de
 LOCATION:Lenore-Volz-Straße 2\, 70372 Stuttgart
 END:VEVENT
