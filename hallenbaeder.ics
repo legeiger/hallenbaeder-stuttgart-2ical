@@ -5,12 +5,4 @@ DESCRIPTION:Öffnungszeiten der Stuttgarter Hallenbäder
 X-WR-CALDESC:Öffnungszeiten der Stuttgarter Hallenbäder
 NAME:Stuttgarter Hallenbäder
 X-WR-CALNAME:Stuttgarter Hallenbäder
-BEGIN:VEVENT
-SUMMARY:Sportbad NeckarPark
-DTSTART;TZID=Europe/Berlin:20260501T060000
-DTEND;TZID=Europe/Berlin:20260501T092000
-DTSTAMP:20260501T061933Z
-UID:18-2026-05-01@stuttgarterbaeder.de
-LOCATION:Lenore-Volz-Straße 2\, 70372 Stuttgart
-END:VEVENT
 END:VCALENDAR
