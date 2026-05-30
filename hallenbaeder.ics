@@ -5,4 +5,12 @@ DESCRIPTION:Öffnungszeiten der Stuttgarter Hallenbäder
 X-WR-CALDESC:Öffnungszeiten der Stuttgarter Hallenbäder
 NAME:Stuttgarter Hallenbäder
 X-WR-CALNAME:Stuttgarter Hallenbäder
+BEGIN:VEVENT
+SUMMARY:Stadtbad Heslach
+DTSTART;TZID=Europe/Berlin:20260612T070000
+DTEND;TZID=Europe/Berlin:20260612T220000
+DTSTAMP:20260530T062740Z
+UID:3-2026-06-12@stuttgarterbaeder.de
+LOCATION:Mörikestraße 62\, 70199 Stuttgart
+END:VEVENT
 END:VCALENDAR
