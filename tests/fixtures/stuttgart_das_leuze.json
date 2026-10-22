@@ -1,0 +1,1156 @@
+[
+ {
+  "id": 5,
+  "id_infopool": 144246,
+  "name": "DAS LEUZE",
+  "subtitle": null,
+  "lookups": {
+   "characteristic": [
+    {
+     "id": 6,
+     "keyword": null,
+     "priority": null,
+     "where_to_show": null,
+     "lookup_type": "characteristic",
+     "value": "Barrierefrei",
+     "value_en": "barrier-free"
+    },
+    {
+     "id": 7,
+     "keyword": null,
+     "priority": null,
+     "where_to_show": null,
+     "lookup_type": "characteristic",
+     "value": "Außenbecken",
+     "value_en": "outdoor pool"
+    },
+    {
+     "id": 9,
+     "keyword": null,
+     "priority": null,
+     "where_to_show": null,
+     "lookup_type": "characteristic",
+     "value": "Sportanlage",
+     "value_en": "sports facility"
+    },
+    {
+     "id": 12,
+     "keyword": null,
+     "priority": null,
+     "where_to_show": null,
+     "lookup_type": "characteristic",
+     "value": "Sauna",
+     "value_en": "sauna"
+    },
+    {
+     "id": 13,
+     "keyword": null,
+     "priority": null,
+     "where_to_show": null,
+     "lookup_type": "characteristic",
+     "value": "Kinderbecken",
+     "value_en": "children`s pool"
+    },
+    {
+     "id": 14,
+     "keyword": null,
+     "priority": null,
+     "where_to_show": null,
+     "lookup_type": "characteristic",
+     "value": "Kinderspielplatz",
+     "value_en": "children`s playground"
+    },
+    {
+     "id": 15,
+     "keyword": null,
+     "priority": null,
+     "where_to_show": null,
+     "lookup_type": "characteristic",
+     "value": "Gastronomie",
+     "value_en": "cuisine"
+    },
+    {
+     "id": 16,
+     "keyword": null,
+     "priority": null,
+     "where_to_show": null,
+     "lookup_type": "characteristic",
+     "value": "Liegewiese",
+     "value_en": "open-air lawn"
+    }
+   ],
+   "type": {
+    "id": 4,
+    "keyword": null,
+    "priority": null,
+    "where_to_show": null,
+    "lookup_type": "type",
+    "value": "Therme",
+    "value_en": "thermal bath"
+   },
+   "targetgroup": [
+    {
+     "id": 17,
+     "keyword": "family",
+     "priority": null,
+     "where_to_show": null,
+     "lookup_type": "targetgroup",
+     "value": "Für Familien",
+     "value_en": "for families"
+    },
+    {
+     "id": 19,
+     "keyword": "senior",
+     "priority": null,
+     "where_to_show": null,
+     "lookup_type": "targetgroup",
+     "value": "Für Senioren",
+     "value_en": "for seniors"
+    },
+    {
+     "id": 22,
+     "keyword": "sauna",
+     "priority": null,
+     "where_to_show": null,
+     "lookup_type": "targetgroup",
+     "value": "Für Saunabegeisterte",
+     "value_en": "for sauna enthusiasts"
+    }
+   ],
+   "businesshours": [
+    {
+     "id": 25,
+     "keyword": "bhpool",
+     "priority": 1,
+     "where_to_show": null,
+     "lookup_type": "businesshours",
+     "value": "Schwimmbad",
+     "value_en": "Swimmingpool"
+    },
+    {
+     "id": 26,
+     "keyword": "bhsauna",
+     "priority": 2,
+     "where_to_show": null,
+     "lookup_type": "businesshours",
+     "value": "Sauna",
+     "value_en": "Sauna"
+    },
+    {
+     "id": 31,
+     "keyword": "bhpoolchildren",
+     "priority": null,
+     "where_to_show": "pool",
+     "lookup_type": "businesshours",
+     "value": "Kinderland",
+     "value_en": "Pool for Children"
+    }
+   ]
+  },
+  "building": {
+   "id": 151553,
+   "gk1": null,
+   "gk2": null,
+   "utm_e": 515545,
+   "utm_n": 5404985,
+   "street": "Am Leuzebad 2A",
+   "zip_code": "70190",
+   "city": "Stuttgart",
+   "district": "Ost",
+   "stadtteil": null,
+   "parking": null,
+   "fahrplan_vendor": null
+  },
+  "communications": [
+   {
+    "type": "t",
+    "address": "+49 711 216-99701",
+    "comment": "Kasse"
+   },
+   {
+    "type": "t",
+    "address": "+49 711 216-99700",
+    "comment": "Info-Telefon"
+   },
+   {
+    "type": "i",
+    "address": "https://www.stuttgarterbaeder.de/leuze",
+    "comment": ""
+   }
+  ],
+  "businesshours": {
+   "usually_bhpool": [
+    {
+     "type": "bhpool",
+     "typeTitle": "Schwimmbad",
+     "typePriority": "1",
+     "typeWhereToShow": null,
+     "validity": {
+      "from": "2021-06-21",
+      "to": "2040-12-31"
+     },
+     "mo": {
+      "from": "06:00",
+      "to": "21:00"
+     },
+     "mo1": null,
+     "mo2": null,
+     "di": {
+      "from": "06:00",
+      "to": "21:00"
+     },
+     "di1": null,
+     "di2": null,
+     "mi": {
+      "from": "06:00",
+      "to": "23:00"
+     },
+     "mi1": null,
+     "mi2": null,
+     "do": {
+      "from": "06:00",
+      "to": "23:00"
+     },
+     "do1": null,
+     "do2": null,
+     "fr": {
+      "from": "06:00",
+      "to": "23:00"
+     },
+     "fr1": null,
+     "fr2": null,
+     "sa": {
+      "from": "06:00",
+      "to": "23:00"
+     },
+     "sa1": null,
+     "sa2": null,
+     "so": {
+      "from": "06:00",
+      "to": "21:00"
+     },
+     "so1": null,
+     "so2": null
+    }
+   ],
+   "holiday_bhpool": [
+    {
+     "type": "bhpool",
+     "typeTitle": "Schwimmbad",
+     "typePriority": "1",
+     "typeWhereToShow": null,
+     "validity": {
+      "from": "2026-11-16",
+      "to": "2026-11-16"
+     },
+     "mo": null,
+     "mo1": null,
+     "mo2": null,
+     "di": null,
+     "di1": null,
+     "di2": null,
+     "mi": null,
+     "mi1": null,
+     "mi2": null,
+     "do": null,
+     "do1": null,
+     "do2": null,
+     "fr": null,
+     "fr1": null,
+     "fr2": null,
+     "sa": null,
+     "sa1": null,
+     "sa2": null,
+     "so": null,
+     "so1": null,
+     "so2": null,
+     "closed": true
+    },
+    {
+     "type": "bhpool",
+     "typeTitle": "Schwimmbad",
+     "typePriority": "1",
+     "typeWhereToShow": null,
+     "validity": {
+      "from": "2026-10-03",
+      "to": "2026-10-03"
+     },
+     "mo": null,
+     "mo1": null,
+     "mo2": null,
+     "di": null,
+     "di1": null,
+     "di2": null,
+     "mi": null,
+     "mi1": null,
+     "mi2": null,
+     "do": null,
+     "do1": null,
+     "do2": null,
+     "fr": null,
+     "fr1": null,
+     "fr2": null,
+     "sa": {
+      "from": "06:00",
+      "to": "21:00"
+     },
+     "sa1": null,
+     "sa2": null,
+     "so": null,
+     "so1": null,
+     "so2": null,
+     "closed": false
+    },
+    {
+     "type": "bhpool",
+     "typeTitle": "Schwimmbad",
+     "typePriority": "1",
+     "typeWhereToShow": null,
+     "validity": {
+      "from": "2026-09-28",
+      "to": "2026-09-28"
+     },
+     "mo": null,
+     "mo1": null,
+     "mo2": null,
+     "di": null,
+     "di1": null,
+     "di2": null,
+     "mi": null,
+     "mi1": null,
+     "mi2": null,
+     "do": null,
+     "do1": null,
+     "do2": null,
+     "fr": null,
+     "fr1": null,
+     "fr2": null,
+     "sa": null,
+     "sa1": null,
+     "sa2": null,
+     "so": null,
+     "so1": null,
+     "so2": null,
+     "closed": true
+    },
+    {
+     "type": "bhpool",
+     "typeTitle": "Schwimmbad",
+     "typePriority": "1",
+     "typeWhereToShow": null,
+     "validity": {
+      "from": "2026-06-04",
+      "to": "2026-06-04"
+     },
+     "mo": null,
+     "mo1": null,
+     "mo2": null,
+     "di": null,
+     "di1": null,
+     "di2": null,
+     "mi": null,
+     "mi1": null,
+     "mi2": null,
+     "do": {
+      "from": "06:00",
+      "to": "21:00"
+     },
+     "do1": null,
+     "do2": null,
+     "fr": null,
+     "fr1": null,
+     "fr2": null,
+     "sa": null,
+     "sa1": null,
+     "sa2": null,
+     "so": null,
+     "so1": null,
+     "so2": null,
+     "closed": false
+    },
+    {
+     "type": "bhpool",
+     "typeTitle": "Schwimmbad",
+     "typePriority": "1",
+     "typeWhereToShow": null,
+     "validity": {
+      "from": "2026-05-01",
+      "to": "2026-05-01"
+     },
+     "mo": null,
+     "mo1": null,
+     "mo2": null,
+     "di": null,
+     "di1": null,
+     "di2": null,
+     "mi": null,
+     "mi1": null,
+     "mi2": null,
+     "do": null,
+     "do1": null,
+     "do2": null,
+     "fr": {
+      "from": "06:00",
+      "to": "21:00"
+     },
+     "fr1": null,
+     "fr2": null,
+     "sa": null,
+     "sa1": null,
+     "sa2": null,
+     "so": null,
+     "so1": null,
+     "so2": null,
+     "closed": false
+    },
+    {
+     "type": "bhpool",
+     "typeTitle": "Schwimmbad",
+     "typePriority": "1",
+     "typeWhereToShow": null,
+     "validity": {
+      "from": "2026-05-14",
+      "to": "2026-05-14"
+     },
+     "mo": null,
+     "mo1": null,
+     "mo2": null,
+     "di": null,
+     "di1": null,
+     "di2": null,
+     "mi": null,
+     "mi1": null,
+     "mi2": null,
+     "do": {
+      "from": "06:00",
+      "to": "21:00"
+     },
+     "do1": null,
+     "do2": null,
+     "fr": null,
+     "fr1": null,
+     "fr2": null,
+     "sa": null,
+     "sa1": null,
+     "sa2": null,
+     "so": null,
+     "so1": null,
+     "so2": null,
+     "closed": false
+    },
+    {
+     "type": "bhpool",
+     "typeTitle": "Schwimmbad",
+     "typePriority": "1",
+     "typeWhereToShow": null,
+     "validity": {
+      "from": "2026-04-03",
+      "to": "2026-04-03"
+     },
+     "mo": null,
+     "mo1": null,
+     "mo2": null,
+     "di": null,
+     "di1": null,
+     "di2": null,
+     "mi": null,
+     "mi1": null,
+     "mi2": null,
+     "do": null,
+     "do1": null,
+     "do2": null,
+     "fr": null,
+     "fr1": null,
+     "fr2": null,
+     "sa": null,
+     "sa1": null,
+     "sa2": null,
+     "so": null,
+     "so1": null,
+     "so2": null,
+     "closed": true
+    },
+    {
+     "type": "bhpool",
+     "typeTitle": "Schwimmbad",
+     "typePriority": "1",
+     "typeWhereToShow": null,
+     "validity": {
+      "from": "2026-04-13",
+      "to": "2026-04-26"
+     },
+     "mo": null,
+     "mo1": null,
+     "mo2": null,
+     "di": null,
+     "di1": null,
+     "di2": null,
+     "mi": null,
+     "mi1": null,
+     "mi2": null,
+     "do": null,
+     "do1": null,
+     "do2": null,
+     "fr": null,
+     "fr1": null,
+     "fr2": null,
+     "sa": null,
+     "sa1": null,
+     "sa2": null,
+     "so": null,
+     "so1": null,
+     "so2": null,
+     "closed": true
+    },
+    {
+     "type": "bhpool",
+     "typeTitle": "Schwimmbad",
+     "typePriority": "1",
+     "typeWhereToShow": null,
+     "validity": {
+      "from": "2026-01-01",
+      "to": "2026-01-01"
+     },
+     "mo": null,
+     "mo1": null,
+     "mo2": null,
+     "di": null,
+     "di1": null,
+     "di2": null,
+     "mi": null,
+     "mi1": null,
+     "mi2": null,
+     "do": {
+      "from": "13:00",
+      "to": "21:00"
+     },
+     "do1": null,
+     "do2": null,
+     "fr": null,
+     "fr1": null,
+     "fr2": null,
+     "sa": null,
+     "sa1": null,
+     "sa2": null,
+     "so": null,
+     "so1": null,
+     "so2": null,
+     "closed": false
+    }
+   ],
+   "usually_bhsauna": [
+    {
+     "type": "bhsauna",
+     "typeTitle": "Sauna",
+     "typePriority": "2",
+     "typeWhereToShow": null,
+     "validity": {
+      "from": "2024-09-16",
+      "to": "2029-12-31"
+     },
+     "mo": {
+      "from": "07:00",
+      "to": "21:00"
+     },
+     "mo1": null,
+     "mo2": null,
+     "di": {
+      "from": "07:00",
+      "to": "21:00"
+     },
+     "di1": null,
+     "di2": null,
+     "mi": {
+      "from": "07:00",
+      "to": "23:00"
+     },
+     "mi1": null,
+     "mi2": null,
+     "do": {
+      "from": "07:00",
+      "to": "23:00"
+     },
+     "do1": null,
+     "do2": null,
+     "fr": {
+      "from": "07:00",
+      "to": "23:00"
+     },
+     "fr1": null,
+     "fr2": null,
+     "sa": {
+      "from": "07:00",
+      "to": "23:00"
+     },
+     "sa1": null,
+     "sa2": null,
+     "so": {
+      "from": "07:00",
+      "to": "21:00"
+     },
+     "so1": null,
+     "so2": null
+    }
+   ],
+   "holiday_bhsauna": [
+    {
+     "type": "bhsauna",
+     "typeTitle": "Sauna",
+     "typePriority": "2",
+     "typeWhereToShow": null,
+     "validity": {
+      "from": "2026-11-16",
+      "to": "2026-11-16"
+     },
+     "mo": null,
+     "mo1": null,
+     "mo2": null,
+     "di": null,
+     "di1": null,
+     "di2": null,
+     "mi": null,
+     "mi1": null,
+     "mi2": null,
+     "do": null,
+     "do1": null,
+     "do2": null,
+     "fr": null,
+     "fr1": null,
+     "fr2": null,
+     "sa": null,
+     "sa1": null,
+     "sa2": null,
+     "so": null,
+     "so1": null,
+     "so2": null,
+     "closed": true
+    },
+    {
+     "type": "bhsauna",
+     "typeTitle": "Sauna",
+     "typePriority": "2",
+     "typeWhereToShow": null,
+     "validity": {
+      "from": "2026-10-03",
+      "to": "2026-10-03"
+     },
+     "mo": null,
+     "mo1": null,
+     "mo2": null,
+     "di": null,
+     "di1": null,
+     "di2": null,
+     "mi": null,
+     "mi1": null,
+     "mi2": null,
+     "do": null,
+     "do1": null,
+     "do2": null,
+     "fr": null,
+     "fr1": null,
+     "fr2": null,
+     "sa": {
+      "from": "07:00",
+      "to": "21:00"
+     },
+     "sa1": null,
+     "sa2": null,
+     "so": null,
+     "so1": null,
+     "so2": null,
+     "closed": false
+    },
+    {
+     "type": "bhsauna",
+     "typeTitle": "Sauna",
+     "typePriority": "2",
+     "typeWhereToShow": null,
+     "validity": {
+      "from": "2026-09-28",
+      "to": "2026-09-28"
+     },
+     "mo": null,
+     "mo1": null,
+     "mo2": null,
+     "di": null,
+     "di1": null,
+     "di2": null,
+     "mi": null,
+     "mi1": null,
+     "mi2": null,
+     "do": null,
+     "do1": null,
+     "do2": null,
+     "fr": null,
+     "fr1": null,
+     "fr2": null,
+     "sa": null,
+     "sa1": null,
+     "sa2": null,
+     "so": null,
+     "so1": null,
+     "so2": null,
+     "closed": true
+    },
+    {
+     "type": "bhsauna",
+     "typeTitle": "Sauna",
+     "typePriority": "2",
+     "typeWhereToShow": null,
+     "validity": {
+      "from": "2026-06-04",
+      "to": "2026-06-04"
+     },
+     "mo": null,
+     "mo1": null,
+     "mo2": null,
+     "di": null,
+     "di1": null,
+     "di2": null,
+     "mi": null,
+     "mi1": null,
+     "mi2": null,
+     "do": {
+      "from": "07:00",
+      "to": "21:00"
+     },
+     "do1": null,
+     "do2": null,
+     "fr": null,
+     "fr1": null,
+     "fr2": null,
+     "sa": null,
+     "sa1": null,
+     "sa2": null,
+     "so": null,
+     "so1": null,
+     "so2": null,
+     "closed": false
+    },
+    {
+     "type": "bhsauna",
+     "typeTitle": "Sauna",
+     "typePriority": "2",
+     "typeWhereToShow": null,
+     "validity": {
+      "from": "2026-05-01",
+      "to": "2026-05-01"
+     },
+     "mo": null,
+     "mo1": null,
+     "mo2": null,
+     "di": null,
+     "di1": null,
+     "di2": null,
+     "mi": null,
+     "mi1": null,
+     "mi2": null,
+     "do": null,
+     "do1": null,
+     "do2": null,
+     "fr": {
+      "from": "07:00",
+      "to": "21:00"
+     },
+     "fr1": null,
+     "fr2": null,
+     "sa": null,
+     "sa1": null,
+     "sa2": null,
+     "so": null,
+     "so1": null,
+     "so2": null,
+     "closed": false
+    },
+    {
+     "type": "bhsauna",
+     "typeTitle": "Sauna",
+     "typePriority": "2",
+     "typeWhereToShow": null,
+     "validity": {
+      "from": "2026-05-14",
+      "to": "2026-05-14"
+     },
+     "mo": null,
+     "mo1": null,
+     "mo2": null,
+     "di": null,
+     "di1": null,
+     "di2": null,
+     "mi": null,
+     "mi1": null,
+     "mi2": null,
+     "do": {
+      "from": "07:00",
+      "to": "21:00"
+     },
+     "do1": null,
+     "do2": null,
+     "fr": null,
+     "fr1": null,
+     "fr2": null,
+     "sa": null,
+     "sa1": null,
+     "sa2": null,
+     "so": null,
+     "so1": null,
+     "so2": null,
+     "closed": false
+    },
+    {
+     "type": "bhsauna",
+     "typeTitle": "Sauna",
+     "typePriority": "2",
+     "typeWhereToShow": null,
+     "validity": {
+      "from": "2026-04-03",
+      "to": "2026-04-03"
+     },
+     "mo": null,
+     "mo1": null,
+     "mo2": null,
+     "di": null,
+     "di1": null,
+     "di2": null,
+     "mi": null,
+     "mi1": null,
+     "mi2": null,
+     "do": null,
+     "do1": null,
+     "do2": null,
+     "fr": null,
+     "fr1": null,
+     "fr2": null,
+     "sa": null,
+     "sa1": null,
+     "sa2": null,
+     "so": null,
+     "so1": null,
+     "so2": null,
+     "closed": true
+    },
+    {
+     "type": "bhsauna",
+     "typeTitle": "Sauna",
+     "typePriority": "2",
+     "typeWhereToShow": null,
+     "validity": {
+      "from": "2026-04-13",
+      "to": "2026-04-26"
+     },
+     "mo": null,
+     "mo1": null,
+     "mo2": null,
+     "di": null,
+     "di1": null,
+     "di2": null,
+     "mi": null,
+     "mi1": null,
+     "mi2": null,
+     "do": null,
+     "do1": null,
+     "do2": null,
+     "fr": null,
+     "fr1": null,
+     "fr2": null,
+     "sa": null,
+     "sa1": null,
+     "sa2": null,
+     "so": null,
+     "so1": null,
+     "so2": null,
+     "closed": true
+    },
+    {
+     "type": "bhsauna",
+     "typeTitle": "Sauna",
+     "typePriority": "2",
+     "typeWhereToShow": null,
+     "validity": {
+      "from": "2026-01-01",
+      "to": "2026-01-01"
+     },
+     "mo": null,
+     "mo1": null,
+     "mo2": null,
+     "di": null,
+     "di1": null,
+     "di2": null,
+     "mi": null,
+     "mi1": null,
+     "mi2": null,
+     "do": {
+      "from": "13:00",
+      "to": "21:00"
+     },
+     "do1": null,
+     "do2": null,
+     "fr": null,
+     "fr1": null,
+     "fr2": null,
+     "sa": null,
+     "sa1": null,
+     "sa2": null,
+     "so": null,
+     "so1": null,
+     "so2": null,
+     "closed": false
+    }
+   ],
+   "usually_bhpoolchildren": [
+    {
+     "type": "bhpoolchildren",
+     "typeTitle": "Kinderland",
+     "typePriority": null,
+     "typeWhereToShow": "pool",
+     "validity": {
+      "from": "2024-04-23",
+      "to": "2030-11-10"
+     },
+     "mo": {
+      "from": "08:00",
+      "to": "21:00"
+     },
+     "mo1": null,
+     "mo2": null,
+     "di": {
+      "from": "08:00",
+      "to": "21:00"
+     },
+     "di1": null,
+     "di2": null,
+     "mi": {
+      "from": "08:00",
+      "to": "21:00"
+     },
+     "mi1": null,
+     "mi2": null,
+     "do": {
+      "from": "08:00",
+      "to": "21:00"
+     },
+     "do1": null,
+     "do2": null,
+     "fr": {
+      "from": "08:00",
+      "to": "21:00"
+     },
+     "fr1": null,
+     "fr2": null,
+     "sa": {
+      "from": "08:00",
+      "to": "21:00"
+     },
+     "sa1": null,
+     "sa2": null,
+     "so": {
+      "from": "08:00",
+      "to": "21:00"
+     },
+     "so1": null,
+     "so2": null
+    }
+   ],
+   "holiday_bhpoolchildren": [
+    {
+     "type": "bhpoolchildren",
+     "typeTitle": "Kinderland",
+     "typePriority": null,
+     "typeWhereToShow": "pool",
+     "validity": {
+      "from": "2026-11-16",
+      "to": "2026-11-16"
+     },
+     "mo": null,
+     "mo1": null,
+     "mo2": null,
+     "di": null,
+     "di1": null,
+     "di2": null,
+     "mi": null,
+     "mi1": null,
+     "mi2": null,
+     "do": null,
+     "do1": null,
+     "do2": null,
+     "fr": null,
+     "fr1": null,
+     "fr2": null,
+     "sa": null,
+     "sa1": null,
+     "sa2": null,
+     "so": null,
+     "so1": null,
+     "so2": null,
+     "closed": true
+    },
+    {
+     "type": "bhpoolchildren",
+     "typeTitle": "Kinderland",
+     "typePriority": null,
+     "typeWhereToShow": "pool",
+     "validity": {
+      "from": "2026-10-03",
+      "to": "2026-10-03"
+     },
+     "mo": null,
+     "mo1": null,
+     "mo2": null,
+     "di": null,
+     "di1": null,
+     "di2": null,
+     "mi": null,
+     "mi1": null,
+     "mi2": null,
+     "do": null,
+     "do1": null,
+     "do2": null,
+     "fr": null,
+     "fr1": null,
+     "fr2": null,
+     "sa": {
+      "from": "08:00",
+      "to": "21:00"
+     },
+     "sa1": null,
+     "sa2": null,
+     "so": null,
+     "so1": null,
+     "so2": null,
+     "closed": false
+    },
+    {
+     "type": "bhpoolchildren",
+     "typeTitle": "Kinderland",
+     "typePriority": null,
+     "typeWhereToShow": "pool",
+     "validity": {
+      "from": "2026-09-28",
+      "to": "2026-09-28"
+     },
+     "mo": null,
+     "mo1": null,
+     "mo2": null,
+     "di": null,
+     "di1": null,
+     "di2": null,
+     "mi": null,
+     "mi1": null,
+     "mi2": null,
+     "do": null,
+     "do1": null,
+     "do2": null,
+     "fr": null,
+     "fr1": null,
+     "fr2": null,
+     "sa": null,
+     "sa1": null,
+     "sa2": null,
+     "so": null,
+     "so1": null,
+     "so2": null,
+     "closed": true
+    },
+    {
+     "type": "bhpoolchildren",
+     "typeTitle": "Kinderland",
+     "typePriority": null,
+     "typeWhereToShow": "pool",
+     "validity": {
+      "from": "2026-04-03",
+      "to": "2026-04-03"
+     },
+     "mo": null,
+     "mo1": null,
+     "mo2": null,
+     "di": null,
+     "di1": null,
+     "di2": null,
+     "mi": null,
+     "mi1": null,
+     "mi2": null,
+     "do": null,
+     "do1": null,
+     "do2": null,
+     "fr": null,
+     "fr1": null,
+     "fr2": null,
+     "sa": null,
+     "sa1": null,
+     "sa2": null,
+     "so": null,
+     "so1": null,
+     "so2": null,
+     "closed": true
+    },
+    {
+     "type": "bhpoolchildren",
+     "typeTitle": "Kinderland",
+     "typePriority": null,
+     "typeWhereToShow": "pool",
+     "validity": {
+      "from": "2026-04-13",
+      "to": "2026-04-26"
+     },
+     "mo": null,
+     "mo1": null,
+     "mo2": null,
+     "di": null,
+     "di1": null,
+     "di2": null,
+     "mi": null,
+     "mi1": null,
+     "mi2": null,
+     "do": null,
+     "do1": null,
+     "do2": null,
+     "fr": null,
+     "fr1": null,
+     "fr2": null,
+     "sa": null,
+     "sa1": null,
+     "sa2": null,
+     "so": null,
+     "so1": null,
+     "so2": null,
+     "closed": true
+    },
+    {
+     "type": "bhpoolchildren",
+     "typeTitle": "Kinderland",
+     "typePriority": null,
+     "typeWhereToShow": "pool",
+     "validity": {
+      "from": "2026-01-01",
+      "to": "2026-01-01"
+     },
+     "mo": null,
+     "mo1": null,
+     "mo2": null,
+     "di": null,
+     "di1": null,
+     "di2": null,
+     "mi": null,
+     "mi1": null,
+     "mi2": null,
+     "do": {
+      "from": "13:00",
+      "to": "21:00"
+     },
+     "do1": null,
+     "do2": null,
+     "fr": null,
+     "fr1": null,
+     "fr2": null,
+     "sa": null,
+     "sa1": null,
+     "sa2": null,
+     "so": null,
+     "so1": null,
+     "so2": null,
+     "closed": false
+    }
+   ]
+  }
+ }
+]
