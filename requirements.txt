@@ -1,4 +1,4 @@
 httpx
 icalendar
-pytz
 beautifulsoup4
+tzdata; platform_system == "Windows"

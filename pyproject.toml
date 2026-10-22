@@ -1,0 +1,53 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hallenbaeder-ical"
+version = "1.1.0"
+description = "Erzeugt eine iCal-Datei mit den Öffnungszeiten der Hallenbäder in Stuttgart, Böblingen und Sindelfingen"
+readme = "README.md"
+requires-python = ">=3.9"
+license = "MIT"
+authors = [{ name = "legeiger" }]
+keywords = ["ical", "kalender", "schwimmbad", "stuttgart", "boeblingen", "sindelfingen"]
+classifiers = [
+  "Development Status :: 5 - Production/Stable",
+  "Environment :: Console",
+  "Intended Audience :: End Users/Desktop",
+  "Operating System :: OS Independent",
+  "Programming Language :: Python :: 3",
+  "Topic :: Office/Business :: Scheduling",
+]
+dependencies = [
+  "httpx",
+  "icalendar",
+  "beautifulsoup4",
+  # zoneinfo braucht unter Windows die Datenbank aus dem tzdata-Paket
+  "tzdata; platform_system == 'Windows'",
+]
+
+[project.optional-dependencies]
+dev = ["pytest", "ruff"]
+
+[project.scripts]
+hallenbaeder-ical = "generate_ical:main"
+
+[project.urls]
+Homepage = "https://github.com/legeiger/hallenbaeder-stuttgart-2ical"
+Issues = "https://github.com/legeiger/hallenbaeder-stuttgart-2ical/issues"
+
+[tool.setuptools]
+# Bewusst flach: das Skript bleibt direkt startbar (python generate_ical.py)
+py-modules = ["generate_ical", "holidays_bw"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+
+[tool.ruff]
+target-version = "py39"
+line-length = 100
+
+[tool.ruff.lint]
+select = ["E", "F", "B", "W", "I"]
